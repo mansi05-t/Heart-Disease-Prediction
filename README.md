@@ -21,12 +21,12 @@
 - scipy
 - keras
 
-## **Dataset description
+## Dataset description
 
 Data set can be downloaded by following [Data](https://www.kaggle.com/ronitf/heart-disease-uci)
 The dataset that we will be using is a dataset from the UCI Machine Learning repository via a Kaggle competition. The data has been provided by the Cleveland Clinic Foundation. The dataset consists of patients ranging in age from 29 - 77 years old. There are a total of 303 instances and 14 attributes including our target variable of “presence” of heart disease. 
 
-**Attributes**
+## Attributes
 
 1.   sex:     sex (1 = male; 0 = female)
 2.   age:     age in years
